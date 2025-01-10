@@ -83,11 +83,11 @@ diccionario = { "a":
 
 #print(diciconario2)
 
-for i in diccionario: 
+"""for i in diccionario: 
     for ii in diccionario[i] :
         for iii in diccionario[i][ii]:
             for iiii in diccionario[i][ii][iii]:
-                print(diccionario[i][ii][iii][iiii])
+                print(diccionario[i][ii][iii][iiii])"""
 
 """
 print(f
@@ -120,6 +120,11 @@ diccionario3 = {
     "c": 100
 }
 
+valor1=diccionario3["a"]["b"]
+valor2=diccionario3["b"]["b"]["c"]
+valor3=diccionario3["c"]
+
+print("suma:", valor1+valor2+valor3)
 
 #sumar todos los numeros de los diccionarios 
 
