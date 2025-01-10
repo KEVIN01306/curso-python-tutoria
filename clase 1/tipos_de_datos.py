@@ -124,7 +124,7 @@ valor1=diccionario3["a"]["b"]
 valor2=diccionario3["b"]["b"]["c"]
 valor3=diccionario3["c"]
 
-print("suma:", valor1+valor2+valor3)
+print("suma:", valor1+valor2+valor3) # Ta bien amor 
 
 #sumar todos los numeros de los diccionarios 
 
