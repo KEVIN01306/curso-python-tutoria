@@ -26,3 +26,5 @@ b = 10
 #logicos 
 
 """print((not 1==1) or 2==3 or 2-8==2)"""
+
+
